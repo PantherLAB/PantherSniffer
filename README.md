@@ -1,4 +1,7 @@
-# PantherSniffer
+# DQMH MQTT Module Template
+
+[Link to VIPM](https://www.vipm.io/package/pantherlab_lib_dqmh_mqtt/)
+
 This is the DQMH Module capable to comunicate with Panther Sniffer for DQMH available on Google Play Store.
 
 *Este es el módulo DQMH capaz de comunicarse con la aplicación Panther Sniffer for DQMH disponible en la Google Play Store.*
@@ -15,3 +18,7 @@ or send us an email to info@pantherlab.com.mx
 
 # Download The app from: *Descarga la app desde*
 [Panter Sniffer for DQMH](https://play.google.com/store/apps/details?id=mx.com.pantherlab.pantherSniffer)
+[Manual de usuario](https://pantherlab.com.mx/wp-content/uploads/2021/09/Manual-Panther-Sniffer-for-DQMH-V-1.0.1-ES.pdf)
+[User Manual](https://pantherlab.com.mx/wp-content/uploads/2021/09/Manual-Panther-Sniffer-for-DQMH-V-1.0.1-EN.pdf)
+
+[Youtube Channel](https://www.youtube.com/channel/UCqfvcKvscU_3kVksI-yb3zg)
