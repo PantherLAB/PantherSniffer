@@ -1,7 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Library LVVersion="20008000">
-	<Property Name="NI.Lib.Icon" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)^!!!*Q(C=\&gt;5^&lt;B.2&amp;-8R![+A^1[1:QFX#^[#3Z4O&gt;KH&gt;5LJA!&gt;QN7')&amp;8A"#/CW6'75(XE,YT_0'#17Y!921XPD;HD0PYZ?:]51;\&lt;8U3P@8WP4,RH(R17G52HX@?4CO]:L[&gt;@FW/&gt;\&lt;D]?@D*_GBRY`'@]980IU:LLOP^,UX*\&lt;`^X?8@U2`0(@Q1MN$S,+6&amp;&amp;*B::F\UVO=J/&lt;X/1G,`)C,`)C,`)C4`)E4`)E4`)E$`)A$`)A$`)A(ROZS%5O=EBG=&lt;/1G&gt;2-9$J$E8ET(O-R(O.B6]:D0-:D0-:$&amp;RG0]2C0]2A0QW1]RG-]RG-]4$5E(BMZ(O.B?B7?QF.Y#E`B95E6HA*1,&amp;:-8%Q#1]8"YEPB+4S&amp;B[]K0)7H]"3?QM.B&amp;:\#5XA+4_&amp;BS$AL.44,2I[(;:2Y%E`C34S*B[G6?"*0YEE]C9@FF(A34Y*)&amp;EQGB["E5.)BW5E]C9=0*:\%EXA34_,BU,B#/=\-IFEW=DS"*`!%HM!4?*B#A3@Q"*\!%XC96I%H]!3?Q".Y7%K"*`!%HA!3,-LS#C9,"A;&gt;AC$Q]"JX3YSL6%-39Z0[ZF8@F/K&lt;48U4K7]/^5688UTV26+@@06*6:]M^5F1`X&amp;KN"KD8E1^?/GI-_]T&gt;;1/V*\;56NK1[WJV4,U.X=]H]_;ZVH(YV'(QU(\`6[\X5\&lt;\6;&lt;T5&lt;L^6KLV?LS'(D$&gt;HEA0$[8ZA`P\T\@HG[_X*\OZL?HG`HDVU^`[@`T0`"MV%M^89.T^!UGB3[)!!!!!!</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
+<Library LVVersion="16008000">
+	<Property Name="NI.Lib.Icon" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)^!!!*Q(C=\&gt;5^&lt;B.2&amp;-8R![+A^1[1:QFX#^[#3Z4O&gt;KH&gt;5LJA!&gt;QN7')&amp;8A"#/CW6'75(XE,YT_0'#17Y!921XPD;HD0PYZ?:]51;\&lt;8U3P@8WP4,RH(R17G52HX@?4CO]:L[&gt;@FW/&gt;\&lt;D]?@D*_GBRY`'@]980IU:LLOP^,UX*\&lt;`^X?8@U2`0(@Q1MN$S,+6&amp;&amp;*B::F\UVO=J/&lt;X/1G,`)C,`)C,`)C4`)E4`)E4`)E$`)A$`)A$`)A(ROZS%5O=EBG=&lt;/1G&gt;2-9$J$E8ET(O-R(O.B6]:D0-:D0-:$&amp;RG0]2C0]2A0QW1]RG-]RG-]4$5E(BMZ(O.B?B7?QF.Y#E`B95E6HA*1,&amp;:-8%Q#1]8"YEPB+4S&amp;B[]K0)7H]"3?QM.B&amp;:\#5XA+4_&amp;BS$AL.44,2I[(;:2Y%E`C34S*B[G6?"*0YEE]C9@FF(A34Y*)&amp;EQGB["E5.)BW5E]C9=0*:\%EXA34_,BU,B#/=\-IFEW=DS"*`!%HM!4?*B#A3@Q"*\!%XC96I%H]!3?Q".Y7%K"*`!%HA!3,-LS#C9,"A;&gt;AC$Q]"JX3YSL6%-39Z0[ZF8@F/K&lt;48U4K7]/^5688UTV26+@@06*6:]M^5F1`X&amp;KN"KD8E1^?/GI-_]T&gt;;1/V*\;56NK1[WJV4,U.X=]H]_;ZVH(YV'(QU(\`6[\X5\&lt;\6;&lt;T5&lt;L^6KLV?LS'(D$&gt;HEA0$[8ZA`P\T\@HG[_X*\OZL?HG`HDVU^`[@`T0`"MV%M^89.T^!UGB3[)!!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
@@ -119,10 +119,8 @@
 		<Item Name="Is Safe to Destroy Refnums.vi" Type="VI" URL="../Is Safe to Destroy Refnums.vi"/>
 		<Item Name="Module Running State--enum.ctl" Type="VI" URL="../Module Running State--enum.ctl"/>
 	</Item>
-	<Item Name="MQTT Local Broker" Type="Folder">
-		<Item Name="Simple MQTT Broker.vi" Type="VI" URL="../Simple MQTT Broker.vi"/>
-	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
+	<Item Name="Simple MQTT Broker.vi" Type="VI" URL="../Simple MQTT Broker.vi"/>
 </Library>
