@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="Windows-1252" standalone="yes"?>
+<MetaData>
+  <DQMHTemplate>
+    <Title>MQTT_Client</Title>
+    <Description>MQTT Client DQMH Module</Description>
+    <LocationPath>PantherLAB/MQTT_Client</LocationPath>
+    <LibraryPath>MQTT_Client.lvlib</LibraryPath>
+    <TesterPath>Test MQTT_Client API.vi</TesterPath>
+    <CustomVIPath></CustomVIPath>
+    <AbsolutePaths>FALSE</AbsolutePaths>
+    <DefaultTesterVirtualFolder>Testers</DefaultTesterVirtualFolder>
+    <DefaultModuleVirtualFolder>Modules</DefaultModuleVirtualFolder>
+    <DefaultRelativeSavePath>Libraries</DefaultRelativeSavePath>
+  </DQMHTemplate>
+</MetaData>
